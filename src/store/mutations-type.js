@@ -1,0 +1,9 @@
+export const ADD_GOODS = 'ADD_GOODS' //添加商品到购物车
+export const INIT_SHOP_CAR = 'INIT_SHOP_CAR' //初始化购物车数据
+export const REMOVE_GOODS = 'REMOVE_GOODS' //将商品移除购物车
+export const SELECT_SINGLE_GOODS = 'SELECT_SINGLE_GOODS' //选中单个商品
+export const SELECT_ALL_GOODS = 'SELECT_ALL_GOODS' //选中与取消所有商品
+export const CLEAR_SHOP_CAR = 'CLEAR_SHOP_CAR' //清空购物车
+export const USER_INFO = 'USER_INFO' //存储用户信息
+export const INIT_USER_INFO = 'INIT_USER_INFO' //初始化用户信息
+export const RESET_USER_INFO = 'RESET_USER_INFO' // 重置用户信息
